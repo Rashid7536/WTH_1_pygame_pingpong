@@ -1,4 +1,4 @@
-### WTH_1_pygame_pingpong
+## WTH_1_pygame_pingpong
 ## python ping pong game using pygame library
 
 # Welcome to the wackiest Python ping pong game you've ever seen! In this side-splitting YouTube video, we decided to take a break from the ordinary and created a Python ping pong game like no other, all while injecting some serious humor with the help of ChatGPT!
